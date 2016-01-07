@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7963d551-b301-4402-8287-b0f4304f109b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/bjorn/Game.java" afterPath="$PROJECT_DIR$/src/com/bjorn/Game.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/bjorn/BowlingGameTest.java" afterPath="$PROJECT_DIR$/test/com/bjorn/BowlingGameTest.java" />
     </list>
     <ignored path="BowlingGame.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,9 +29,12 @@
           <file leaf-file-name="Game.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/com/bjorn/Game.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5870842">
-                  <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-                  <folding />
+                <state vertical-scroll-proportion="0.9099804">
+                  <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
+                  <folding>
+                    <element signature="e#755#756#0" expanded="true" />
+                    <element signature="e#823#824#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -496,12 +498,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BowlingGameTest - 2016.01.07 at 11h 56m 15s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2016.01.07 at 11h 57m 59s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BowlingGameTest - 2016.01.07 at 11h 59m 08s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
@@ -524,6 +520,12 @@
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="BowlingGameTest - 2016.01.07 at 12h 35m 06s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2016.01.07 at 13h 05m 25s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2016.01.07 at 13h 08m 00s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -579,9 +581,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bjorn/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5870842">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-          <folding />
+        <state vertical-scroll-proportion="0.9099804">
+          <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
+          <folding>
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
