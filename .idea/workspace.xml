@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7963d551-b301-4402-8287-b0f4304f109b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/bjorn/Game.java" afterPath="$PROJECT_DIR$/src/com/bjorn/Game.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/bjorn/BowlingGameTest.java" afterPath="$PROJECT_DIR$/test/com/bjorn/BowlingGameTest.java" />
     </list>
     <ignored path="BowlingGame.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +47,8 @@
           <file leaf-file-name="BowlingGameTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test/com/bjorn/BowlingGameTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="1.1741683">
-                  <caret line="40" column="18" selection-start-line="36" selection-start-column="0" selection-end-line="43" selection-end-column="5" />
+                <state vertical-scroll-proportion="0.853229">
+                  <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -77,8 +78,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/com/bjorn/BowlingGameTest.java" />
         <option value="$PROJECT_DIR$/src/com/bjorn/Game.java" />
+        <option value="$PROJECT_DIR$/test/com/bjorn/BowlingGameTest.java" />
       </list>
     </option>
   </component>
@@ -498,9 +499,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BowlingGameTest - 2016.01.07 at 11h 59m 08s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BowlingGameTest - 2016.01.07 at 12h 25m 03s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
@@ -526,6 +524,9 @@
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="BowlingGameTest - 2016.01.07 at 13h 08m 00s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2016.01.07 at 13h 10m 29s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -569,16 +570,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/com/bjorn/BowlingGameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1741683">
-          <caret line="40" column="18" selection-start-line="36" selection-start-column="0" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bjorn/Game.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9099804">
@@ -586,6 +577,16 @@
           <folding>
             <element signature="e#755#756#0" expanded="true" />
             <element signature="e#823#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/bjorn/BowlingGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.853229">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
