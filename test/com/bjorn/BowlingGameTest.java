@@ -34,12 +34,12 @@ public class BowlingGameTest {
         assertEquals(20, g.score());
     }
 
-//    @Test
-//    public void testOneSpare() throws Exception {
-//        g.roll(5);
-//        g.roll(5);
-//        g.roll(3);
-//        rollMany(17, 0);
-//        assertEquals(16, g.score());
-//    }
+    @Test
+    public void testOneSpare() throws Exception {
+        g.roll(5);
+        g.roll(5);
+        g.roll(3);
+        rollMany(17, 0);
+        assertEquals(16, g.score());
+    }
 }
